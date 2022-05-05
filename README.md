@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Kotlin-5a5aff?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
 </p>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woogi&layout=compact" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnql&layout=compact" /></p>
 <hr>
 <h2>Projects</h2>
 <li ><a href="https://github.com/fnql/HeraGit">Hera Git </a>(Kotlin)</li>
