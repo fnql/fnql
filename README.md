@@ -1,5 +1,5 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=c1aeee&height=150&text=JongWook Ryu&fontSize=60&fontColor=f0eada" /></p>
-<h3 align="center"> 안녕하세요.👋 모바일 공부중인 대학생입니다.</h3>
+<h3 align="center"> 안녕하세요.👋 안드로이드 앱 공부중인 대학생입니다.</h3>
 
 <h3 align="center">🛠 기술 스택 🛠</h3>
 
