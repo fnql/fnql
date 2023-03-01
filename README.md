@@ -15,4 +15,4 @@
 <hr>
 <h2>Projects</h2>
 <li ><a href="https://github.com/fnql/HeraGit">Hera Git </a>(Kotlin)</li>
-<li ><a href="https://github.com/fnql/nomadFlutter">Flutter Webtoon </a>(Kotlin)</li>
+<li ><a href="https://github.com/fnql/nomadFlutter">Flutter Webtoon </a>(Flutter/Dart)</li>
